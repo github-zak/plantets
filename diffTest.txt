@@ -1,1 +1,3 @@
 First line
+Second line: staged but not committed.
+Third line: changed but not staged.
